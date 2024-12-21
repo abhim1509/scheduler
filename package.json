@@ -1,0 +1,25 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhim1509/scheduler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhim1509/scheduler/issues"
+  },
+  "homepage": "https://github.com/abhim1509/scheduler#readme",
+  "description": "",
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "nodemon": "^3.1.9"
+  }
+}
